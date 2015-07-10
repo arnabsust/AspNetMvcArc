@@ -1,0 +1,4 @@
+﻿Lists of Tasks
+
+1. Create solutions with all project            - OK
+2. Create BOL with the help of entity framework - 
