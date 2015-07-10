@@ -1,4 +1,19 @@
 ﻿Lists of Tasks
 
-1. Create solutions with all project            - OK
-2. Create BOL with the help of entity framework - 
+1 . Create solutions with all project            - Completed
+2 . Create BOL with the help of entity framework - Completed
+3 . Add Connection string in UI                  - Completed
+4 . Create Areas in MVC                          -
+a . Common                                       -
+b . User                                         -
+c . Admin                                        -
+d . Security                                     -
+5 . Create All Controllers in respective Areas   -
+6 . Add default index views                      -
+7 . Add Bootstrap                                -
+8 . Create BrowseURL Views                       -
+9 . Create Common Layout                         -
+10. Create DAL                                   -
+a . Add UrlDb                                    -
+11. Cretae BLL                                   -
+a . UrlBs                                        -
